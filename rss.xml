@@ -13,9 +13,9 @@
         <pubDate>Sat, 13 Jul 2024 12:13:02 +0800</pubDate>
         <lastBuildDate>Sat, 13 Jul 2024 12:13:02 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">https://fyfan.cn/2024/07/13/system%20maintenance/%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4-%E6%95%B0%E6%8D%AE%E5%BA%93/</guid>
+            <guid isPermalink="true">https://fyfan.cn/2024/07/13/system-maintenance/%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4-%E6%95%B0%E6%8D%AE%E5%BA%93/</guid>
             <title>系统维护(数据库)</title>
-            <link>https://fyfan.cn/2024/07/13/system%20maintenance/%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4-%E6%95%B0%E6%8D%AE%E5%BA%93/</link>
+            <link>https://fyfan.cn/2024/07/13/system-maintenance/%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4-%E6%95%B0%E6%8D%AE%E5%BA%93/</link>
             <category term="系统维护" scheme="https://fyfan.cn/categories/system-maintenance/" />
             <category term="比赛" scheme="https://fyfan.cn/tags/%E6%AF%94%E8%B5%9B/" />
             <pubDate>Sat, 13 Jul 2024 12:13:02 +0800</pubDate>
@@ -39,9 +39,9 @@
 &lt;figure class=&#34;highlight sql&#34;&gt;&lt;figcaption data-lang=&#34;SQL&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;#使用.sql 脚本&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;source xxx&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;sql&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://fyfan.cn/2024/07/13/system%20maintenance/%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4-Ubuntu/</guid>
+            <guid isPermalink="true">https://fyfan.cn/2024/07/13/system-maintenance/%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4-Ubuntu/</guid>
             <title>系统维护(Ubuntu)</title>
-            <link>https://fyfan.cn/2024/07/13/system%20maintenance/%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4-Ubuntu/</link>
+            <link>https://fyfan.cn/2024/07/13/system-maintenance/%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4-Ubuntu/</link>
             <category term="系统维护" scheme="https://fyfan.cn/categories/system-maintenance/" />
             <category term="比赛" scheme="https://fyfan.cn/tags/%E6%AF%94%E8%B5%9B/" />
             <pubDate>Sat, 13 Jul 2024 12:12:50 +0800</pubDate>
@@ -78,9 +78,9 @@
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;free&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://fyfan.cn/2024/07/13/system%20maintenance/%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4-Windows/</guid>
+            <guid isPermalink="true">https://fyfan.cn/2024/07/13/system-maintenance/%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4-Windows/</guid>
             <title>系统维护(Windows)</title>
-            <link>https://fyfan.cn/2024/07/13/system%20maintenance/%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4-Windows/</link>
+            <link>https://fyfan.cn/2024/07/13/system-maintenance/%E7%B3%BB%E7%BB%9F%E7%BB%B4%E6%8A%A4-Windows/</link>
             <category term="系统维护" scheme="https://fyfan.cn/categories/system-maintenance/" />
             <category term="比赛" scheme="https://fyfan.cn/tags/%E6%AF%94%E8%B5%9B/" />
             <pubDate>Sat, 13 Jul 2024 12:12:37 +0800</pubDate>
@@ -171,9 +171,10 @@ net share 服务名 /delete #删除开启的共享服务
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://fyfan.cn/2024/05/14/MySQL/</guid>
+            <guid isPermalink="true">https://fyfan.cn/2024/05/14/programming-learning/MySQL/</guid>
             <title>MySQL</title>
-            <link>https://fyfan.cn/2024/05/14/MySQL/</link>
+            <link>https://fyfan.cn/2024/05/14/programming-learning/MySQL/</link>
+            <category term="编程学习" scheme="https://fyfan.cn/categories/programming-learning/" />
             <category term="编程语言" scheme="https://fyfan.cn/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/" />
             <pubDate>Tue, 14 May 2024 22:44:43 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;认识数据库&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#认识数据库&#34;&gt;#&lt;/a&gt; 认识数据库&lt;/h1&gt;
@@ -421,9 +422,10 @@ limit n[,m] # 跳过n行的显示,从n+1行开始显示m行
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://fyfan.cn/2024/05/14/Android-%E5%BC%80%E5%8F%91/</guid>
+            <guid isPermalink="true">https://fyfan.cn/2024/05/14/programming-learning/Android-%E5%BC%80%E5%8F%91/</guid>
             <title>Android 开发</title>
-            <link>https://fyfan.cn/2024/05/14/Android-%E5%BC%80%E5%8F%91/</link>
+            <link>https://fyfan.cn/2024/05/14/programming-learning/Android-%E5%BC%80%E5%8F%91/</link>
+            <category term="编程学习" scheme="https://fyfan.cn/categories/programming-learning/" />
             <category term="编程语言" scheme="https://fyfan.cn/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/" />
             <pubDate>Tue, 14 May 2024 22:15:40 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;参考书籍：基于 Android 的物联网应用开发 (北京新大陆时代教育科技有限公司)&lt;/p&gt;
